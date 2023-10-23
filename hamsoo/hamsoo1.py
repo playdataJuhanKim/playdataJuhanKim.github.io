@@ -1,0 +1,2 @@
+def kimchi():
+    print("hello")
